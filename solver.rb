@@ -1,4 +1,3 @@
-
 class Solver
   def fizzbuzz(num)
     if (num % 15).zero?
